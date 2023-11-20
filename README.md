@@ -31,7 +31,7 @@ This project is a Smart Contact Manager built using Java, Spring Boot, and MySQL
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Smart-Contact-Manager.git
+    git clone https://github.com/aknajardhane/Smart-Contact-Manager.git
     ```
 
 2. Set up the MySQL database by importing the SQL file provided in the `database` folder.

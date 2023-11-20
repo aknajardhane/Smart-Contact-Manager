@@ -19,8 +19,12 @@ This project is a Smart Contact Manager built using Java, Spring Boot, and MySQL
 ## Technologies Used
 
 - Java
+- HTML
+- CSS
+- BOOTSTRAP
 - Spring Boot
 - MySQL
+  
 
 ## Installation
 
